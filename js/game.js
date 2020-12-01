@@ -24,11 +24,11 @@ var gameOverText;
 
 
 function preload() {
-    this.load.image('moon', 'assets/moon3.png');
+    this.load.image('moon', 'assets/moon.png');
     this.load.image('turretgunhead', 'assets/turret-gun-head.png');
     this.load.image('turretgunbody', 'assets/turret-gun-body.png');
     this.load.image('bullet', 'assets/sprites/bullets/bullet.png');
-    this.load.image('ship', 'assets/sprites/ship2.png');
+    this.load.image('ship', 'assets/sprites/ship.png');
     this.load.image('wall', 'assets/wall.png');
     this.load.image('heart', 'assets/heart.png');
 }
